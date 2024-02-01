@@ -14,7 +14,7 @@
 
 <p>Banff is home to a number of breathe taking hikes where many people may try to test their V&#x0307;O<sub>2</sub> max!</p>
 
-<span style="color: red;">CALGARY IS ALSO HOME TO THE C OF RED!!!.</span>
+<p style="color: red;">CALGARY IS ALSO HOME TO THE C OF RED!!!.</p>
 
 [This link will take you to my picture](PICTURES/Calgaryskyline.jpg) 
 

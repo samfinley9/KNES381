@@ -1,5 +1,6 @@
 <p align="center"
   <h1>Calgary is the best city on Canada</h1> </p> 
+  
 | <p>Calgary is also home to the Greatest Outdoor Show on Earth</p> | <p style="color: red;">CALGARY IS ALSO HOME TO THE C OF RED!!!.</p> |  
 | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
 | <p>The Calgary Stampede is arguably Calgary's greatest summer attraction housing a number of the worlds best rodeo and music stars from around the world!</p> | <img src="Calgaryskyline.jpg" alt="tripsavvy.com" width="200"/> |

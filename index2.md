@@ -1,6 +1,5 @@
 <p align="center"
   <strong>Calgary is the best city in Canada</strong>
-</p>   
 
 <p>Calgary is also home to the Greatest Outdoor Show on Earth</p>
 
@@ -8,7 +7,6 @@
 
 <p align="right">
   <img src="Calgaryskyline.jpg" alt="tripsavvy.com" width="200"/>
-</p>
 
 <p>Calgary is also a short hour drive away from Banff</p>
 

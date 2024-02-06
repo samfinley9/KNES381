@@ -5,6 +5,7 @@
 | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
 | <p>The Calgary Stampede is arguably Calgary's greatest summer attraction housing a number of the worlds best rodeo and music stars from around the world!</p> | <img src="Calgaryskyline.jpg" alt="tripsavvy.com" width="200"/> |
 | | [This link will take you to my picture](PICTURES/Calgaryskyline.jpg) |
+
 <p>Calgary is also a short hour drive away from Banff</p>
 
 <p>Banff is home to a number of breathe taking hikes where many people may try to test their V&#x0307;O<sub>2</sub> max!</p>
